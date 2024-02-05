@@ -1,15 +1,15 @@
 {
-  "name": "_janaagency TS",
+  "name": "_m1337v TS",
   "subtitle": "All essentials in one place",
-  "iconURL": "https://github.com/janaagency/rp/releases/download/debug/CydiaIcon.png",
-  "headerURL": "https://github.com/janaagency/rp/releases/download/debug/CydiaIcon.png",
-  "identifier": "_janaagency",
-  "sourceURL": "https://raw.githubusercontent.com/janaagency/rp/main/roop/a.json",
+  "iconURL": "https://github.com/m1337v/rp/releases/download/debug/CydiaIcon.png",
+  "headerURL": "https://github.com/m1337v/rp/releases/download/debug/CydiaIcon.png",
+  "identifier": "_m1337v",
+  "sourceURL": "https://raw.githubusercontent.com/m1337v/rp/main/roop/a.json",
   "apps": [
     {
       "name": "LocationSimulator",
       "bundleIdentifier": "com.janaagency.LocationSimulation",
-      "developerName": "janaagency",
+      "developerName": "m1337v",
       "iconURL": "https://github.com/janaagency/rp/releases/download/debug/locsim.png",
       "versions": [
         {
@@ -24,7 +24,7 @@
     {
       "name": "palera1n no pc (iOS 15, iPhone 7-X)",
       "bundleIdentifier": "com.janaagency.palera1n15",
-      "developerName": "janaagency",
+      "developerName": "m1337v",
       "iconURL": "https://github.com/janaagency/rp/releases/download/debug/palera1n.png",
       "versions": [
         {
@@ -39,7 +39,7 @@
     {
       "name": "palera1n no pc (iOS 16, iPhone 7-X)",
       "bundleIdentifier": "com.janaagency.palera1n16",
-      "developerName": "janaagency",
+      "developerName": "m1337v",
       "iconURL": "https://github.com/janaagency/rp/releases/download/debug/palera1n.png",
       "versions": [
         {
@@ -54,7 +54,7 @@
     {
       "name": "Taurine (iOS 14.0-14.8.1)",
       "bundleIdentifier": "com.janaagency.taurine",
-      "developerName": "janaagency",
+      "developerName": "m1337v",
       "iconURL": "https://taurine.app/assets/images/icon.png",
       "versions": [
         {
@@ -69,7 +69,7 @@
     {
       "name": "Dopamine (iOS 15.0-15.4.1, iPhone XS-13)",
       "bundleIdentifier": "com.janaagency.dopamine",
-      "developerName": "janaagency",
+      "developerName": "m1337v",
       "iconURL": "https://ellekit.space/dopamine/assets/icon.png",
       "versions": [
         {
@@ -84,7 +84,7 @@
     {
       "name": "Dopamine (Roothide) (iOS 15.0-15.4.1, iPhone XS-13)",
       "bundleIdentifier": "com.janaagency.dopamine-roothide",
-      "developerName": "janaagency",
+      "developerName": "m1337v",
       "iconURL": "https://avatars.githubusercontent.com/u/134120506?v=4",
       "versions": [
         {
@@ -99,7 +99,7 @@
     {
       "name": "Bootstrap (Roothide) (iOS 14.0-17.0, iPhone 6-15)",
       "bundleIdentifier": "com.janaagency.bootstrap",
-      "developerName": "janaagency",
+      "developerName": "m1337v",
       "iconURL": "https://raw.githubusercontent.com/roothide/Bootstrap/main/Bootstrap/Assets.xcassets/Bootstrap.imageset/Bootstrap.png",
       "versions": [
         {
@@ -114,7 +114,7 @@
     {
       "name": "Shadowrocket",
       "bundleIdentifier": "com.janaagency.shadowrocket",
-      "developerName": "janaagency",
+      "developerName": "m1337v",
       "iconURL": "https://www.shadowrocketdownload.com/img/logo.png",
       "versions": [
         {
