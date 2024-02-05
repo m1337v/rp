@@ -10,13 +10,13 @@
       "name": "LocationSimulator",
       "bundleIdentifier": "com.janaagency.LocationSimulation",
       "developerName": "m1337v",
-      "iconURL": "https://github.com/janaagency/rp/releases/download/debug/locsim.png",
+      "iconURL": "https://github.com/m1337v/rp/releases/download/debug/ls.png",
       "versions": [
         {
           "version": "1.3.7",
           "date": "2024-01-22",
           "size": 49776043,
-          "downloadURL": "https://github.com/janaagency/rp/releases/download/debug/locsim1.3.7.tipa",
+          "downloadURL": "https://github.com/m1337v/rp/releases/download/debug/ls1.3.7.tipa",
           "localizedDescription": "Location spoofer\nLast updated: 01-01-2024\nStatus: \u2705"
         }
       ]
